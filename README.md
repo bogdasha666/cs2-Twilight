@@ -3,6 +3,8 @@
 [![GitHub release](https://img.shields.io/github/downloads/bogdasha666/cs2-Twilight/total.svg)](https://github.com/bogdasha666/cs2-Twilight/releases/latest)
 [![License](https://img.shields.io/github/license/bogdasha666/cs2-Twilight)](LICENSE.txt)
 
+(./Image/logo.png)
+
 ### Enhance Your *Counter-Strike 2* Experience
 
 **Twilight** is a lightweight, open-source tool crafted for *Counter-Strike 2 (CS2)* fans to personalize and streamline their gameplay. It operates externally—never modifying game memory or files—using only what CS2 provides through console commands, Game State Integration (GSI), and log files.
