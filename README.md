@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/downloads/bogdasha666/cs2-Twilight/total.svg)](https://github.com/bogdasha666/cs2-Twilight/releases/latest)
 [![License](https://img.shields.io/github/license/bogdasha666/cs2-Twilight)](LICENSE.txt)
 
-(./Image/logo.png)
+![Menu1](./Image/logo.png)
 
 ### Enhance Your *Counter-Strike 2* Experience
 
